@@ -1,0 +1,7 @@
+cliente1:
+  cliente: 'Gabriela Oliveira'
+  email: 'teste@gabrielateste.com.br'
+  pass_cliente: 'teste@123'
+  doc: '54383470009'
+  phone: '11999999999'
+  age: 24
