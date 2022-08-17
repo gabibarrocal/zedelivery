@@ -1,4 +1,4 @@
-# zedelivery
+# Automaçao com ruby de um web site
 Repositório do projeto ZeDelivery com Cucumber, Capybara e Ruby.
 
 # Fluxos críticos/importantes:
